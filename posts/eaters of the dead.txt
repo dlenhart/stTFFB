@@ -1,0 +1,8 @@
+{
+	"title" : "Eaters of the dead",
+	"author" : "Drew Lenhart",
+        "date" : "2015-03-09",
+        "slug" : "eaters of the dead"
+}
+#content#
+this is to talk about the book <h1> HIII </h1>

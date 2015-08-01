@@ -1,0 +1,8 @@
+{
+	"title" : "This is the POST TWO",
+	"author" : "Drew Lenhart",
+        "date" : "2015-03-09",
+        "slug" : "post2"
+}
+#content#
+Welcome to post 2

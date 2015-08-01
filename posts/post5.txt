@@ -1,0 +1,8 @@
+{
+	"title" : "This is the POST FOUR",
+	"author" : "Drew Lenhart",
+        "date" : "2015-03-09",
+        "slug" : "post5"
+}
+#content#
+Welcome to my site, this is a very exciting time for me!!
